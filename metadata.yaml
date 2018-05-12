@@ -1,0 +1,32 @@
+_repo: Legends-of-Vancouver_28483
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 28483-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Johnson, E. Pauline
+    aliases:
+    - Tekahionwake
+    - Johnson, Emily Pauline
+    - Johnson, Pauline
+    birthdate: 1861
+    deathdate: 1913
+    gutenberg_agent_id: '1209'
+    url: http://www.gutenberg.org/2009/agents/1209
+    wikipedia: http://en.wikipedia.org/wiki/Pauline_Johnson
+description: Book 1. The two sisters. The Siwash Rock. The recluse -- Book 2. The
+  Lost Salmon-run. The Deep Waters. The Sea-serpent.
+gutenberg_issued: '2009-04-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28483'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Legends -- British Columbia -- Vancouver'
+- !lcc 'F1001'
+title: Legends of Vancouver
+url: http://www.gutenberg.org/ebooks/28483
