@@ -17,6 +17,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Pauline_Johnson
 description: Book 1. The two sisters. The Siwash Rock. The recluse -- Book 2. The
   Lost Salmon-run. The Deep Waters. The Sea-serpent.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28483#Legends-of-Vancouver
 gutenberg_issued: '2009-04-02'
 gutenberg_type: Text
 identifiers:
